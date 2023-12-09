@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/OGR-67/frontend-mentor)
+- Live Site URL: [live site](http://www.olivier-roos.dev/frontend-mentor/public/index.html)
 
 ## My process
 
