@@ -19,7 +19,7 @@ function toggle_src(btn) {
 async function feedWithDatas() {
   const list = document.querySelector("ul");
 
-  const basePath = window.location.pathname;
+  const basePath = window.location.href.replace("index.html", "")
   fetch(`${basePath}data.json`)
     .then((res) => {
       return res.json()
