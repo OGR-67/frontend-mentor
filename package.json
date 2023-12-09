@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "concurrently 'live-server --entry-file=./public/index.html' 'sass --watch app/sass:public/stylesheets'"
+    "dev": "concurrently 'live-server public/' 'sass --watch app/sass:public/stylesheets'"
   },
   "keywords": [],
   "author": "",
