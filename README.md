@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://github.com/OGR-67/frontend-mentor)
+- Solution URL: [solution](https://github.com/OGR-67/frontend-mentor/tree/FAQ_accordion)
 - Live Site URL: [live site](http://www.olivier-roos.dev/frontend-mentor/public/index.html)
 
 ## My process
